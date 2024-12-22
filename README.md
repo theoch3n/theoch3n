@@ -1,3 +1,6 @@
+<h3>Hi 👋, I'm Theo</h3>
+<p>A self-taught Full stack developer from Taiwan, Passionate about developing interesting web apps!</p>
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=theoch3n&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theoch3n&theme=tokyonight&hide_border=false)<br/>
