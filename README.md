@@ -8,15 +8,17 @@
     </p>
 </div>
 
+<p align="center">
 I'm **Tai-Zhi (Theo) Chen**, a Full stack developer from Taiwan, fueled by a _**genuine passion**_ for **Software Engineering 💻**.
+</p>
 
-<p align="left">
+<p align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,vue,react,py,postgres,vite,git" />
 	</a>
 </p>
 
-<p align="left">
+<p align="center">
 	<img 
 		height="160px" 
 		src="https://github-readme-stats.vercel.app/api?username=theoch3n&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true"
