@@ -23,7 +23,7 @@ I'm **Tai-Zhi (Theo) Chen**, a Full stack developer from Taiwan, fueled by a _**
 		alt="theoch3n-top-progamming-languages" />
 </p>
 
-<div align="left">
+<div align="center">
 	<h5>Self-motivated, Team player,
 	Love coding. 👨🏻‍💻</h5>
 	<a 
