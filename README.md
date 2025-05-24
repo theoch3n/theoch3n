@@ -18,12 +18,12 @@ I'm Theo, a Full stack developer from Taiwan, fueled by a genuine passion for So
 	</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<img 
 		height="160px" 
 		src="https://github-readme-stats.vercel.app/api?username=theoch3n&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true"
 		alt="theoch3n-top-progamming-languages" />
-</p>
+</p> -->
 
 <div align="center">
 	<h5>Self-motivated, Team player,
