@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-I'm Theo, a Full stack developer from Taiwan, fueled by a genuine passion for Software Engineering 💻.
+I'm Theo, fueled by a genuine passion for Software Engineering 💻.
 </p>
 
 <p align="center">
