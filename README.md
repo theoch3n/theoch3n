@@ -8,9 +8,9 @@
     </p>
 </div>
 
-<p align="center">
+<div align="center">
 I'm **Tai-Zhi (Theo) Chen**, a Full stack developer from Taiwan, fueled by a _**genuine passion**_ for **Software Engineering 💻**.
-</p>
+</div>
 
 <p align="center">
 	<a href="https://skillicons.dev">
