@@ -12,7 +12,7 @@ I'm **Tai-Zhi (Theo) Chen**, a Full stack developer from Taiwan, fueled by a _**
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,js,ts,vue,react,vite,vuetify,pinia,git" />
+		<img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,vue,react,py,postgres,vite,git" />
 	</a>
 </p>
 
