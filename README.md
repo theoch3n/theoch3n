@@ -14,7 +14,7 @@ I'm Theo, fueled by a genuine passion for Software Engineering 💻.
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,ts,vue,react,py,postgres,vite,git" />
+		<img src="https://skillicons.dev/icons?i=py,django,cs,dotnet,go,js,ts,vue,react,postgres,vite,git" />
 	</a>
 </p>
 
